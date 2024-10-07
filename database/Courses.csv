@@ -1,0 +1,101 @@
+course_id,name,department_id,credits
+1,Introduction to Programming,1,3
+2,Data Structures,1,4
+3,Algorithms,1,4
+4,Operating Systems,1,3
+5,Database Systems,1,3
+6,Computer Networks,1,3
+7,Artificial Intelligence,1,4
+8,Software Engineering,1,3
+9,Machine Learning,1,4
+10,Compiler Design,1,3
+11,Circuit Analysis,2,3
+12,Digital Signal Processing,2,4
+13,Control Systems,2,3
+14,Microprocessors,2,3
+15,Electromagnetics,2,3
+16,Power Systems,2,4
+17,Communication Systems,2,3
+18,VLSI Design,2,4
+19,Robotics,2,3
+20,Signal Processing,2,4
+21,Thermodynamics,3,3
+22,Fluid Mechanics,3,4
+23,Heat Transfer,3,3
+24,Material Science,3,3
+25,Mechanical Vibrations,3,4
+26,Machine Design,3,3
+27,Manufacturing Processes,3,3
+28,Automotive Engineering,3,4
+29,CAD/CAM,3,3
+30,Aerodynamics,3,4
+31,Structural Analysis,4,3
+32,Geotechnical Engineering,4,4
+33,Environmental Engineering,4,3
+34,Transportation Engineering,4,3
+35,Water Resources Engineering,4,3
+36,Construction Management,4,4
+37,Surveying,4,3
+38,Hydraulics,4,4
+39,Structural Design,4,3
+40,Urban Planning,4,4
+41,Organic Chemistry,5,3
+42,Physical Chemistry,5,4
+43,Chemical Reaction Engineering,5,3
+44,Process Dynamics and Control,5,3
+45,Biochemical Engineering,5,3
+46,Polymer Science,5,4
+47,Thermodynamics (Chem Eng),5,3
+48,Mass Transfer,5,4
+49,Process Equipment Design,5,3
+50,Energy Engineering,5,4
+51,Human Anatomy,6,3
+52,Biomedical Instrumentation,6,4
+53,Medical Imaging,6,3
+54,Biomaterials,6,3
+55,Biomechanics,6,3
+56,Rehabilitation Engineering,6,4
+57,Neural Engineering,6,3
+58,Tissue Engineering,6,4
+59,Clinical Engineering,6,3
+60,Biomedical Ethics,6,4
+61,Aerodynamics (Aero Eng),7,3
+62,Flight Mechanics,7,4
+63,Spacecraft Design,7,3
+64,Propulsion Systems,7,3
+65,Aerospace Structures,7,3
+66,Avionics,7,4
+67,Orbital Mechanics,7,3
+68,Aircraft Performance,7,4
+69,Hypersonic Aerodynamics,7,3
+70,Aerospace Materials,7,4
+71,Environmental Chemistry,8,3
+72,Environmental Microbiology,8,4
+73,Waste Management,8,3
+74,Environmental Policy,8,3
+75,Sustainable Development,8,3
+76,Climate Change Science,8,4
+77,Environmental Impact Assessment,8,3
+78,Renewable Energy,8,4
+79,Air Pollution Control,8,3
+80,Water Quality Management,8,4
+81,Calculus I,9,3
+82,Calculus II,9,4
+83,Linear Algebra,9,3
+84,Differential Equations,9,3
+85,Abstract Algebra,9,3
+86,Real Analysis,9,4
+87,Complex Analysis,9,3
+88,Numerical Methods,9,4
+89,Probability and Statistics,9,3
+90,Topology,9,4
+91,Classical Mechanics,10,3
+92,Electromagnetism,10,4
+93,Quantum Mechanics,10,3
+94,Thermodynamics (Physics),10,3
+95,Optics,10,3
+96,Statistical Mechanics,10,4
+97,Nuclear Physics,10,3
+98,Solid State Physics,10,4
+99,Particle Physics,10,3
+100,Astrophysics,10,4

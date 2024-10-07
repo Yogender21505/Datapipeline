@@ -1,0 +1,143 @@
+Query: Students enrolled in course
+Original Execution time: 5.01 seconds
+Optimized Execution time: 0.69 seconds
+Output:
+   student_id           name         department
+0           1       John Doe   Computer Science
+1          54  Robert Parker  Civil Engineering
+========================================
+Query: Average number of students in instructor's courses
+Original Execution time: 0.80 seconds
+Optimized Execution time: 0.47 seconds
+Output:
+   average_enrollment
+0                 2.0
+========================================
+Query: Courses offered by department
+Original Execution time: 0.24 seconds
+Optimized Execution time: 0.00 seconds
+Output:
+   _id                         name  credit
+0    1  Introduction to Programming       3
+1    2              Data Structures       4
+2    3                   Algorithms       4
+3    4            Operating Systems       3
+4    5             Database Systems       3
+5    6            Computer Networks       3
+6    7      Artificial Intelligence       4
+7    8         Software Engineering       3
+8    9             Machine Learning       4
+9   10              Compiler Design       3
+========================================
+Query: Courses offered by department
+Original Execution time: 0.24 seconds
+Optimized Execution time: 0.44 seconds
+Output:
+   _id                         name  credit
+0    1  Introduction to Programming       3
+1    2              Data Structures       4
+2    3                   Algorithms       4
+3    4            Operating Systems       3
+4    5             Database Systems       3
+5    6            Computer Networks       3
+6    7      Artificial Intelligence       4
+7    8         Software Engineering       3
+8    9             Machine Learning       4
+9   10              Compiler Design       3
+========================================
+Query: Total number of students per department
+Original Execution time: 0.54 seconds
+Optimized Execution time: 0.00 seconds
+Output:
+               department  total_students
+0        Computer Science              19
+1  Electrical Engineering              20
+2  Mechanical Engineering              19
+3       Civil Engineering              19
+4    Chemical Engineering              19
+5  Biomedical Engineering              18
+6   Aerospace Engineering              19
+7   Environmental Science              19
+8             Mathematics              19
+9                 Physics              19
+========================================
+Query: Total number of students per department
+Original Execution time: 0.54 seconds
+Optimized Execution time: 0.32 seconds
+Output:
+               department  total_students
+0        Computer Science              19
+1  Electrical Engineering              20
+2  Mechanical Engineering              19
+3       Civil Engineering              19
+4    Chemical Engineering              19
+5  Biomedical Engineering              18
+6   Aerospace Engineering              19
+7   Environmental Science              19
+8             Mathematics              19
+9                 Physics              19
+========================================
+Query: Instructors who taught all core courses
+Original Execution time: 0.29 seconds
+Optimized Execution time: 0.00 seconds
+Output:
+   _id               name
+0    1  Dr. Alice Johnson
+1    2   Dr. Bob Williams
+2    3  Dr. Charlie Brown
+3    4    Dr. Diana Evans
+4    5  Dr. Edward Harris
+5   51    Dr. Yuri Watson
+6   52     Dr. Zoe Brooks
+7   53     Dr. Adam Kelly
+8   54   Dr. Beth Sanders
+9   55     Dr. Carl Price
+========================================
+Query: Instructors who taught all core courses (Optimized)
+Original Execution time: 0.29 seconds
+Optimized Execution time: 0.23 seconds
+Output:
+   _id               name
+0    1  Dr. Alice Johnson
+1    2   Dr. Bob Williams
+2    3  Dr. Charlie Brown
+3    4    Dr. Diana Evans
+4    5  Dr. Edward Harris
+5   51    Dr. Yuri Watson
+6   52     Dr. Zoe Brooks
+7   53     Dr. Adam Kelly
+8   54   Dr. Beth Sanders
+9   55     Dr. Carl Price
+========================================
+Query: Top 10 courses with highest enrollments
+Original Execution time: 0.36 seconds
+Optimized Execution time: 0.00 seconds
+Output:
+   _id                         name  num_enrollments
+0   15             Electromagnetics                3
+1   25        Mechanical Vibrations                3
+2   35  Water Resources Engineering                3
+3   45      Biochemical Engineering                3
+4   55                 Biomechanics                3
+5   65         Aerospace Structures                3
+6   75      Sustainable Development                3
+7   85             Abstract Algebra                3
+8   95                       Optics                3
+9    1  Introduction to Programming                2
+========================================
+Query: Top 10 courses with highest enrollments (Optimized)
+Original Execution time: 0.36 seconds
+Optimized Execution time: 0.13 seconds
+Output:
+   _id                         name  num_enrollments
+0   15             Electromagnetics                3
+1   25        Mechanical Vibrations                3
+2   35  Water Resources Engineering                3
+3   45      Biochemical Engineering                3
+4   55                 Biomechanics                3
+5   65         Aerospace Structures                3
+6   75      Sustainable Development                3
+7   85             Abstract Algebra                3
+8   95                       Optics                3
+9    1  Introduction to Programming                2
+========================================
