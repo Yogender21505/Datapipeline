@@ -1,9 +1,3 @@
-Here's a README.md file formatted for GitHub based on the information provided:
-
-
-
-
-
 # University Data Pipeline and Query Optimization
 
 _Apache Spark • MongoDB • PostgreSQL • Python_
@@ -194,9 +188,4 @@ This will trigger the Spark job, read data from MongoDB collections, and execute
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-Here's your README.md file formatted for GitHub. You can copy this content directly into your repository's README.md file. Remember to replace `<your-username>` in the installation instructions with your actual GitHub username.
-
-Is there anything specific you'd like to modify or add to this README?
+This project is licensed under the MIT License. See the [LICENSE](LICENSE).
